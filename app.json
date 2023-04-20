@@ -1,7 +1,7 @@
 {
-    "name": "‹ 𝚜𝚘𝚞𝚛𝚌𝚎 𝚜𝚎𝚖𝚘 ›⁩",
-    "description": "تنصيب ميوزك سيمو مجاني 💕",
-    "logo": "https://telegra.ph/file/2e7e7b9b463149c1d00cb.jpg",
+    "name": "𝅘𝅥𝅯𝙎𝙊𝙐𝙍𝘾𝙀 𝙑𝙀𝙉𝙊𝙈 𝅘𝅥𝅯",
+    "description": "تنصيب ميوزك فينوم مجاني 💕",
+    "logo": "https://graph.org/file/74bf3bd702a30b8912d7c.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -13,12 +13,12 @@
     ],
     "env": {
       "API_ID": {
-        "description": "ايبي ايدي المساعد » @FTTUTT7 « قناة شرح  » https://my.telegram.org « الموقع ",
+        "description": "ايبي ايدي المساعد »@Ve_m1« قناة شرح  » https://my.telegram.org « الموقع ",
         "value": "",
         "required": true
       },
       "API_HASH": {
-        "description": "ايبي هاش المساعد » @FTTUTT7 « قناة شرح https://my.telegram.org  « الموقع",
+        "description": "ايبي هاش المساعد »@Ve_m1« قناة شرح https://my.telegram.org  « الموقع",
         "value": "",
         "required": true
       },
@@ -34,7 +34,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "ضع اسم بوتك",
-        "value": "سيمو",
+        "value": "فينوم",
         "required": true
       },
       "OWNER_ID": {
