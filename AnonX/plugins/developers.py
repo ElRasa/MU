@@ -16,24 +16,24 @@ from random import  choice, randint
 #          
                 
 @app.on_message(
-    command(["المبرمج","سمير","مطور السورس","مبرمج السورس"])
+    command(["المبرمج","رسام","مطور السورس","مبرمج السورس"])
     & ~filters.edited
 )
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/10502824e3ec812bf1e85.jpg",
-        caption=f"""◉ 𝙽𝙰𝙼𝙴 : ❪[𓏺 ʏᴇѕ ɪ'ᴍ ѕᴀᴍɪʀ ˼](https://t.me/DEV_SAMIR)❫
-◉ 𝚄𝚂𝙴𝚁 : ❪ @DEV_SAMIR ❫
-◉ 𝙸𝙳      : ❪ 5680297831 ❫
-◉ 𝙱𝙸𝙾    : ❪ صلي علي الحبيب محمد ✨♥ ❫""",
+        photo=f"https://graph.org/file/74bf3bd702a30b8912d7c.jpg",
+        caption=f"""◉ 𝙽𝙰𝙼𝙴 : ❪[𓏺 𝙀𝙇𝙍𝘼𝙎𝘼𝙈 ‌𝅘𝅥𝅯 ˼](https://t.me/Mahmod777777)❫
+◉ 𝚄𝚂𝙴𝚁 : ❪ @Mahmod777777 ❫
+◉ 𝙸𝙳      : ❪ 2125600195 ❫
+◉ 𝙱𝙸𝙾    : ❪{لاتحزن إن الله معنا}❤️{ @Osman_yy }{ @E_L_R_A_S_A_M }⚡⌠ @Ve_m1 ⌡❫""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "᳒ᴅᴇᴠ ѕᴀᴍɪʀ", url=f"https://t.me/DEV_SAMIR"), 
+                        "᳒𝙀𝙇𝙍𝘼𝙎𝘼𝙈 ‌𝅘𝅥𝅯", url=f"https://t.me/Mahmod777777"), 
                  ],[
                    InlineKeyboardButton(
-                        "⌞ 𝚜𝚘𝚞𝚛𝚌𝚎 𝚜𝚎𝚖𝚘 ⌝", url=f"https://t.me/FTTUTY"),
+                        "⌞ 𝅘𝅥𝅯𝙎𝙊𝙐𝙍𝘾𝙀 𝙑𝙀𝙉𝙊𝙈 𝅘𝅥𝅯 ⌝", url=f"https://t.me/Ve_m1"),
                 ],
 
             ]
